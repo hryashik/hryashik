@@ -162,15 +162,15 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#hryashik-stack" >
-        <img src="https://brandeps.com/icon-download/E/Express-icon-vector-01.svg" width="48" height="48" alt="Nestjs" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
+    </td>
+    <td align="center" width="96"> 
+      <a href="#hryashik-stack" >
+        <img src="https://brandeps.com/icon-download/E/Express-icon-vector-01.svg" width="48" height="48" alt="Nestjs" />
+      </a>
+      <br>Express
     </td>
     <td align="center" width="96">
       <a href="#hryashik-stack" >
