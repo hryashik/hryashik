@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="left">:wave: Hello there! I'm Dmitry Dultsev</h1>
+I'm a Front-end Developer
 ![Hryashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hryashik&theme=dark&show_icons=true)
 <!--
 **hryashik/hryashik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
