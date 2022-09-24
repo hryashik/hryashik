@@ -1,18 +1,13 @@
 <h1 align="left">:wave: Hello there! I'm Dmitry Dultsev</h1>
 
-<div display="flex">
-	<div width="50%">
-	<h4 align="left">I'm a Front-end Developer</h4>
+<h4 align="left">I'm a Front-end Developer</h4>
+
 - :office: &nbsp; I am currently looking for a job
 - :fire: &nbsp; I develop using **Typescript**
 - :airplane: &nbsp;Let's talk more in [Telegram](https://t.me/dmitriydultsev)
-	</div>
-	<div width="50%">
-	<a href="#hryashik-title">
+<a href="#hryashik-title">
   <img src="https://github-readme-stats.vercel.app/api?username=hryashik&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="hryashik" align="right" />
 </a>
-	</div>
-</div>
 
 <br>
 <h2 align="left">Tech stack</h2>
