@@ -10,13 +10,6 @@
 - :airplane: &nbsp;Let's talk more in [Telegram](https://t.me/dmitriydultsev)
 
 <br>
-<h2 align="left">Stats</h2>
-
-<a href="#hryashik-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hryashik&show_icons=true&locale=en&layout=compact&theme=react" alt="hryashik" />
-</a>
-  
- <br>
   
 <h2 align="left">Tech stack</h2>
 >  General
@@ -196,6 +189,9 @@
 </table>
  
 ## :comet: Contact
+<a href="#hryashik-title">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hryashik&show_icons=true&locale=en&layout=compact&theme=react" alt="hryashik" />
+</a>
 
 - :comet: &nbsp; **[Github](https://github.com/hryashik)**
 - :airplane: &nbsp; **[Telegram](https://t.me/dmitriydultsev)**
