@@ -1,4 +1,5 @@
 <h1 align="left">:wave: Hello there! I'm Dmitry Dultsev</h1>
+<h2>align="left"Stats</h2>
 <div>
 <a href="#hryashik-title">
   <img src="https://github-readme-stats.vercel.app/api?username=hryashik&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="hryashik" align="right" />
