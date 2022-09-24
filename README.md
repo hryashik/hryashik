@@ -1,8 +1,12 @@
 <h1 align="left">:wave: Hello there! I'm Dmitry Dultsev</h1>
+<div>
 <a href="#hryashik-title">
   <img src="https://github-readme-stats.vercel.app/api?username=hryashik&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="hryashik" align="right" />
 </a>
-
+<a href="#hryashik-title">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hryashik&show_icons=true&locale=en&layout=compact&theme=react" alt="hryashik" />
+</a>
+</div
 <h4 align="left">I'm a Front-end Developer</h4>
 
 - :office: &nbsp; I am currently looking for a job
@@ -188,9 +192,6 @@
 </table>
  
 ## :comet: Contact
-<a href="#hryashik-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hryashik&show_icons=true&locale=en&layout=compact&theme=react" alt="hryashik" />
-</a>
 
 - :comet: &nbsp; **[Github](https://github.com/hryashik)**
 - :airplane: &nbsp; **[Telegram](https://t.me/dmitriydultsev)**
