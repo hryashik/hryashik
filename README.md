@@ -4,9 +4,11 @@
 <a href="#hryashik-title">
   <img src="https://github-readme-stats.vercel.app/api?username=hryashik&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="hryashik" align="right" />
 </a>
-- :office: &nbsp; I am currently looking for a job**
-- :fire: &nbsp;I develop using **Typescript**
-- :airplane: &nbsp;Let's talk more in **[Telegram](https://t.me/dmitriydultsev)**
+
+- :office: &nbsp; I am currently looking for a job
+- :fire: &nbsp; I develop using **Typescript**
+- :airplane: &nbsp;Let's talk more in [Telegram](https://t.me/dmitriydultsev)
+
 <br>
 <h2 align="left">Tech stack</h2>
 >  General
