@@ -1,5 +1,13 @@
 <h1 align="left">:wave: Hello there! I'm Dmitry Dultsev</h1>
 
+
+<h3 align="left">I'm a Front-end Developer</h3>
+
+- :office: &nbsp; I am currently looking for a job
+- :fire: &nbsp; I develop using **Typescript**
+- :airplane: &nbsp;Let's talk more in [Telegram](https://t.me/dmitriydultsev)
+
+<br>
 <h2 align="left">Stats</h2>
 <div>
 <a href="#hryashik-title">
@@ -9,13 +17,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hryashik&show_icons=true&locale=en&layout=compact&theme=react" alt="hryashik" />
 </a>
 </div
-<h33 align="left">I'm a Front-end Developer</h3>
-
-- :office: &nbsp; I am currently looking for a job
-- :fire: &nbsp; I develop using **Typescript**
-- :airplane: &nbsp;Let's talk more in [Telegram](https://t.me/dmitriydultsev)
-
-<br>
+ <br>
 <h2 align="left">Tech stack</h2>
 >  General
  
