@@ -16,10 +16,11 @@
 <a href="#hryashik-title">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hryashik&show_icons=true&locale=en&layout=compact&theme=react" alt="hryashik" />
 </a>
-</div
+</div>
   
  <br>
   
+<h2 align="left">Tech stack</h2>
 >  General
  
 <table width='100%'>
