@@ -186,7 +186,6 @@
     </td>
   </tr> 
 </table>
->  Other
  
 ## :comet: Contact
 <a href="#hryashik-title">
