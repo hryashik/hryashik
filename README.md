@@ -1,199 +1,63 @@
-<h1 align="left">:wave: Hello there! I'm Dmitry Dultsev</h1>
-<a href="#hryashik-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=hryashik&show_icons=true&theme=react&include_all_commits=true" alt="hryashik" align="right" />
-</a>
-
-<h3 align="left">I'm a Front-end Developer</h3>
-
-- :office: &nbsp; I am currently looking for a job
-- :fire: &nbsp; I develop using **Typescript**
-- :airplane: &nbsp;Let's talk more in [Telegram](https://t.me/dmitriydultsev)
+## <div align="center">Hi 👋, I'm Dmitriy</div><div align="center">And i'm a full-stack developer 👨‍💻</div>  
+ 
+<div align="center"><h3>Tech stack</h3></div>
+<br>
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
+  &nbsp
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+  &nbsp
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img margin="40px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+  &nbsp
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+  &nbsp
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+  &nbsp
+</div>  
 
 <br>
-  
-<h2 align="left">Tech stack</h2>
->  General
- 
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#hryashik-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#hryashik-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
-        <img src="https://brandeps.com/icon-download/Y/Yarn-icon-vector-03.svg" width="48" height="48" alt="yarn" />
-      </a>
-      <br>Yarn
-    </td>
-    <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>Npm
-    </td>
-    <td align="center" width="96">
-      <a href="#hryashik-stack" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-     <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
-      </a>
-      <br>Github
-    </td>
-  </tr> 
-</table>
->  Code quality
-<table width='100%'>
-  <tr>
-     <td align="center" width="96">
-      <a href="#hryashik-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
-      </a>
-      <br>Eslint
-    </td>
-    <td align="center" width="96">
-      <a href="#hryashik-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
-      </a>
-      <br>Prettier
-    </td>
-    <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
-      </a>
-      <br>Jest
-    </td>
-  </tr> 
-</table>
->  Frontend
- 
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#hryashik-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React JS
-    </td>
-          <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-      <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
-        <img src="https://brandeps.com/icon-download/M/Mobx-icon-vector-01.svg" width="48" height="48" alt="Mobx" />
-      </a>
-      <br>Mobx
-    </td>
-     <td align="center" width="96">
-      <a href="#hryashik-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>MUI
-    </td>
-   <td align="center" width="96">
-      <a href="#hryashik-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-     <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
-  </tr> 
-    <tr>
-    <td align="center" width="96">
-      <a href="#hryashik-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
-    <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-      <a href="#hryashik-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-   <td align="center" width="96">
-      <a href="#hryashik-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-  </tr> 
-</table>
->  Backend
- 
-<table width='100%'>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-    <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
-        <img src="https://brandeps.com/icon-download/E/Express-icon-vector-01.svg" width="48" height="48" alt="Nestjs" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <a href="#hryashik-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-     <td align="center" width="96"> 
-      <a href="#hryashik-stack" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-  </tr> 
-</table>
+
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+  &nbsp
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
+  &nbsp
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
+  &nbsp
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
+  &nbsp
+</div>  
+
+<br>
+
+<div align="center">  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+  &nbsp
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+  &nbsp
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+  &nbsp
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>
+  &nbsp
+<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
+  &nbsp
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+  &nbsp
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+</div>  
+
+<br />
+
+## Stats
+<div>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hryashik&" alt="hryashik" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hryashik&show_icons=true&locale=en&layout=compact" alt="hryashik" /></p>
+<br>
+</div>
+
  
 ## :comet: Contact
-<a href="#hryashik-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hryashik&show_icons=true&locale=en&layout=compact&theme=react" alt="hryashik" />
-</a>
 
-- :comet: &nbsp; **[Github](https://github.com/hryashik)**
 - :airplane: &nbsp; **[Telegram](https://t.me/dmitriydultsev)**
 <br>
 
