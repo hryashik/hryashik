@@ -24,6 +24,8 @@
   &nbsp
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
   &nbsp
+ <a href="https://effector.dev/" target="_blank"><img style="margin: 10px" src="https://effector.dev/img/comet.png" alt="Effector" height="50" /></a>
+ <a href="https://www.npmjs.com/package/zustand" target="_blank"><img style="margin: 10px" src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="Zustand" height="50" /></a>
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
   &nbsp
 </div>  
@@ -47,8 +49,9 @@
 </div>  
 
 <br />
+<br />
+<br />
 
-## Stats
 <div>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hryashik&" alt="hryashik" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hryashik&show_icons=true&locale=en&layout=compact" alt="hryashik" /></p>
