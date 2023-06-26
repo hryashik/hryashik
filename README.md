@@ -3,7 +3,7 @@
 <div align="center"><h3>Tech stack</h3></div>
 <br>
 <div align="center">  
-<a href="https://effector.dev/" target="_blank"><img style="margin: 10px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/75/af/7c75af6d-f246-5a3f-6c2a-350fa90f956c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" alt="Effector" height="50" /></a>
+<a href="https://www.freepascal.org/" target="_blank"><img style="margin: 10px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/75/af/7c75af6d-f246-5a3f-6c2a-350fa90f956c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" alt="Pascal" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
   &nbsp
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
