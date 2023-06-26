@@ -3,6 +3,7 @@
 <div align="center"><h3>Tech stack</h3></div>
 <br>
 <div align="center">  
+<a href="https://effector.dev/" target="_blank"><img style="margin: 10px" src="https://ru.wikipedia.org/wiki/Free_Pascal#/media/%D0%A4%D0%B0%D0%B9%D0%BB:FPClogogif.gif" alt="Effector" height="50" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
   &nbsp
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
